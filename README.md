@@ -40,7 +40,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The idea came to us from some previous projects about making a browser extension that could automate the stuff and make net-surfing an awesome experience. There are a lot of people that get scammed everyday due to opening malicious links or get cyberbullied online, and they don't even realize that it's actually happening. People with Dyslexia can't read things on browsers properly; Or some of us might actually feel the need to get things read to us instead of actually reading it by ourselves. As a solution to all these problems and more, Sia was built.
+The idea came to us from some previous projects about making a browser extension that could automate the stuff and make net-surfing an awesome experience. There are a lot of people that get scammed everyday due to opening malicious links or get cyberbullied online, and they don't even realize that it's actually happening. People with Dyslexia can't read things on browsers properly. Or some of us might actually feel the need to get things read to us instead of actually reading it by ourselves. As a solution to all these problems and more, Sia was built.
 
 ### Built With
 
